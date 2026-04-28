@@ -4,7 +4,7 @@ I embarked on my journey into the tech world fueled by curiosity and a passion f
 
 
 ### 🛠 My toolbox is filled with: 
-- Python, JavaScript, HTML, CSS, React, Swift, and other technologies.
+- Python, Java, JavaScript, HTML, CSS, React, Swift
 
 ### 🐶 Non-coding Hobbies 🥾 
 When I'm not coding, you might find me exploring the latest tech trends, working on my e-commerce business, or hiking with my husband and rescue pup. I'm on the lookout for opportunities to grow as a software developer, especially in roles that value creativity, continuous learning, and a diverse perspective.
